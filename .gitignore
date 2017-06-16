@@ -1,0 +1,6 @@
+*.userprefs	
+bin/
+obj/
+*.dll
+.DS_Store
+
